@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/HimanshuResume/static/css/main.8e6ccad4.chunk.css",
-    "main.js": "/HimanshuResume/static/js/main.2e62021d.chunk.js",
-    "main.js.map": "/HimanshuResume/static/js/main.2e62021d.chunk.js.map",
-    "runtime-main.js": "/HimanshuResume/static/js/runtime-main.fc528b29.js",
-    "runtime-main.js.map": "/HimanshuResume/static/js/runtime-main.fc528b29.js.map",
-    "static/js/2.9212312b.chunk.js": "/HimanshuResume/static/js/2.9212312b.chunk.js",
-    "static/js/2.9212312b.chunk.js.map": "/HimanshuResume/static/js/2.9212312b.chunk.js.map",
-    "static/js/3.4ce2b696.chunk.js": "/HimanshuResume/static/js/3.4ce2b696.chunk.js",
-    "static/js/3.4ce2b696.chunk.js.map": "/HimanshuResume/static/js/3.4ce2b696.chunk.js.map",
+    "main.css": "/HimanshuResume/static/css/main.a1134433.chunk.css",
+    "main.js": "/HimanshuResume/static/js/main.35b4ccc5.chunk.js",
+    "main.js.map": "/HimanshuResume/static/js/main.35b4ccc5.chunk.js.map",
+    "runtime-main.js": "/HimanshuResume/static/js/runtime-main.6a2e5c2e.js",
+    "runtime-main.js.map": "/HimanshuResume/static/js/runtime-main.6a2e5c2e.js.map",
+    "static/js/2.072e1844.chunk.js": "/HimanshuResume/static/js/2.072e1844.chunk.js",
+    "static/js/2.072e1844.chunk.js.map": "/HimanshuResume/static/js/2.072e1844.chunk.js.map",
+    "static/js/3.a74e1f8a.chunk.js": "/HimanshuResume/static/js/3.a74e1f8a.chunk.js",
+    "static/js/3.a74e1f8a.chunk.js.map": "/HimanshuResume/static/js/3.a74e1f8a.chunk.js.map",
     "index.html": "/HimanshuResume/index.html",
-    "static/css/main.8e6ccad4.chunk.css.map": "/HimanshuResume/static/css/main.8e6ccad4.chunk.css.map",
-    "static/js/2.9212312b.chunk.js.LICENSE.txt": "/HimanshuResume/static/js/2.9212312b.chunk.js.LICENSE.txt",
+    "static/css/main.a1134433.chunk.css.map": "/HimanshuResume/static/css/main.a1134433.chunk.css.map",
+    "static/js/2.072e1844.chunk.js.LICENSE.txt": "/HimanshuResume/static/js/2.072e1844.chunk.js.LICENSE.txt",
     "static/media/HimanshuResume.c9286642.pdf": "/HimanshuResume/static/media/HimanshuResume.c9286642.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc528b29.js",
-    "static/js/2.9212312b.chunk.js",
-    "static/css/main.8e6ccad4.chunk.css",
-    "static/js/main.2e62021d.chunk.js"
+    "static/js/runtime-main.6a2e5c2e.js",
+    "static/js/2.072e1844.chunk.js",
+    "static/css/main.a1134433.chunk.css",
+    "static/js/main.35b4ccc5.chunk.js"
   ]
 }
