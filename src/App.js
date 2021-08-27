@@ -9,7 +9,7 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Redirect
+  
   
 } from "react-router-dom";
 
@@ -20,7 +20,7 @@ function App() {
     <>
       <Particle params={particlesConfig} className="App-particles__container" />
       <div className="App">
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
                     <Switch>
                         <Route exact path='/' component={Login} />
                         <Route path='/Home' component={Home} />
