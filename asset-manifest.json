@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/himanshu8605/HimanshuResume/tree/gh-pages/static/css/main.8e6ccad4.chunk.css",
-    "main.js": "/himanshu8605/HimanshuResume/tree/gh-pages/static/js/main.2e62021d.chunk.js",
-    "main.js.map": "/himanshu8605/HimanshuResume/tree/gh-pages/static/js/main.2e62021d.chunk.js.map",
-    "runtime-main.js": "/himanshu8605/HimanshuResume/tree/gh-pages/static/js/runtime-main.286f6127.js",
-    "runtime-main.js.map": "/himanshu8605/HimanshuResume/tree/gh-pages/static/js/runtime-main.286f6127.js.map",
-    "static/js/2.9212312b.chunk.js": "/himanshu8605/HimanshuResume/tree/gh-pages/static/js/2.9212312b.chunk.js",
-    "static/js/2.9212312b.chunk.js.map": "/himanshu8605/HimanshuResume/tree/gh-pages/static/js/2.9212312b.chunk.js.map",
-    "static/js/3.4ce2b696.chunk.js": "/himanshu8605/HimanshuResume/tree/gh-pages/static/js/3.4ce2b696.chunk.js",
-    "static/js/3.4ce2b696.chunk.js.map": "/himanshu8605/HimanshuResume/tree/gh-pages/static/js/3.4ce2b696.chunk.js.map",
-    "index.html": "/himanshu8605/HimanshuResume/tree/gh-pages/index.html",
-    "static/css/main.8e6ccad4.chunk.css.map": "/himanshu8605/HimanshuResume/tree/gh-pages/static/css/main.8e6ccad4.chunk.css.map",
-    "static/js/2.9212312b.chunk.js.LICENSE.txt": "/himanshu8605/HimanshuResume/tree/gh-pages/static/js/2.9212312b.chunk.js.LICENSE.txt",
-    "static/media/HimanshuResume.c9286642.pdf": "/himanshu8605/HimanshuResume/tree/gh-pages/static/media/HimanshuResume.c9286642.pdf"
+    "main.css": "/HimanshuResume/static/css/main.8e6ccad4.chunk.css",
+    "main.js": "/HimanshuResume/static/js/main.2e62021d.chunk.js",
+    "main.js.map": "/HimanshuResume/static/js/main.2e62021d.chunk.js.map",
+    "runtime-main.js": "/HimanshuResume/static/js/runtime-main.fc528b29.js",
+    "runtime-main.js.map": "/HimanshuResume/static/js/runtime-main.fc528b29.js.map",
+    "static/js/2.9212312b.chunk.js": "/HimanshuResume/static/js/2.9212312b.chunk.js",
+    "static/js/2.9212312b.chunk.js.map": "/HimanshuResume/static/js/2.9212312b.chunk.js.map",
+    "static/js/3.4ce2b696.chunk.js": "/HimanshuResume/static/js/3.4ce2b696.chunk.js",
+    "static/js/3.4ce2b696.chunk.js.map": "/HimanshuResume/static/js/3.4ce2b696.chunk.js.map",
+    "index.html": "/HimanshuResume/index.html",
+    "static/css/main.8e6ccad4.chunk.css.map": "/HimanshuResume/static/css/main.8e6ccad4.chunk.css.map",
+    "static/js/2.9212312b.chunk.js.LICENSE.txt": "/HimanshuResume/static/js/2.9212312b.chunk.js.LICENSE.txt",
+    "static/media/HimanshuResume.c9286642.pdf": "/HimanshuResume/static/media/HimanshuResume.c9286642.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.286f6127.js",
+    "static/js/runtime-main.fc528b29.js",
     "static/js/2.9212312b.chunk.js",
     "static/css/main.8e6ccad4.chunk.css",
     "static/js/main.2e62021d.chunk.js"
